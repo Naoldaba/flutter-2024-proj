@@ -18,10 +18,10 @@ Firfir Tera stands as an innovative web application dedicated to offering a comp
 ### Technologies Used
 
 - **Mobile App Development:** Flutter framework.
-- **Backend:** Django REST framework.
+- **Backend:** Nest REST framework.
 - **Database:** MongoDB.
 - **Authentication:** JWT Token-based authentication.
-- **Authorization:** Django Permissions for role-based authentication.
+- **Authorization:** JWT Permissions for role-based authentication.
 
 In essence, Firfir Tera is a culinary haven, inviting users to explore, create, and enjoy a diverse array of flavors from around the world. Whether users seek comfort in familiar cuisines or wish to embark on new culinary adventures, Firfir Tera stands ready to facilitate their gastronomic journey.
 
