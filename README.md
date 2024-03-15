@@ -14,6 +14,7 @@ Firfir Tera stands as an innovative web application dedicated to offering a comp
 4. **Role Assignment:** Admins can assign roles to users.
 5. **Recipe Sharing:** Kitchen enthusiasts can share their favorite recipes with the community.
 6. **Profile Management:** Users can manage their profiles, including updating personal information and preferences.
+7. **Comments:** In addition to posting a recipe on the platform, as the second key feature, any user with an account can comment on recipes and receive feedback from users around the world. This promotes bidirectional knowledge sharing.
 
 ### Technologies Used
 
